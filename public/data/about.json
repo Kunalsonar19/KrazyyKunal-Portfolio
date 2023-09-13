@@ -1,0 +1,92 @@
+{
+  "email": "kunalwankhede958@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/krazyykunal/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/Kunalsonar007",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "krazyykunal.cv.pdf",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Passionate Full Stack Developer | Crafting Apps, Interactions and UX | Tech Enthusiast, Visual Arts Lover, Gaming Addict 🚀",
+    "From Jalgaon, Based in Mumbai."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Web app architecture", "Strategic thinking", "Storytelling"],
+    ["Frontend", "Backend", "UX/UI", "Tailwind", "SASS", "LESS", "JavaScript"],
+    ["JavaScript", "TypeScript", "ES6", "ES7", "ES8", "ES9", "ES10", "ES11"],
+    ["React", "Redux", "Vue", "Vuex", "Node", "Express", "Next", "Vite"],
+    ["Django", "Flask", "Python", "PHP", "Laravel", "Symfony"],
+    ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "GraphQL", "REST"],
+    ["Figma", "Photoshop", "Illustrator", "Sketch", "InVision", "Zeplin"],
+    ["Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Trello", "Asana"],
+    ["Agile", "Scrum", "Kanban", "Lean", "Waterfall", "XP", "Pair programming"],
+    ["English", "Português", "Español", "Deutsch", "Català"],
+    [
+      "JavaScript",
+      "Python",
+      "Django",
+      "React",
+      "Vue",
+      "Node",
+      "Canvas",
+      "Rudux",
+      "WebGL",
+      "MongoDB",
+      "PostgreSQL",
+      "Firebase",
+      "GraphQL",
+      "REST"
+    ],
+    ["Figma", "Photoshop", "Illustrator"]
+  ],
+  "experiences": [
+    {
+      "position": "AR Developer",
+      "company": "Snapchat",
+      "time": "Current"
+    },
+    {
+      "position": "Ethical Hacker (Intern)",
+      "company": "Delhi Cyber Cell",
+      "time": "2022-Present"
+    },
+    {
+      "position": "Ethical Hacker & Cyber Security Expert (Intern)",
+      "company": "Mumbai Cyber Crime Branch",
+      "time": "2022-2023"
+    },
+    {
+      "position": "Jr.Software Developer (Intern)",
+      "company": "SBIT WLL",
+      "time": "2021 - 2022"
+    },
+    {
+      "position": "Freelancer",
+      "company": "UI/UX & Full Stack Development"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"],
+      ["pt-BR", "Português"]
+    ],
+    "intermediate": [["es-ES", "Español"]],
+    "basic": [
+      ["de-DE", "Deutsch"],
+      ["ca-ES", "Català"]
+    ]
+  },
+  "busy": ["Pet my dog", "Spanish guitar", "Games", "#eleNÃO"]
+}
